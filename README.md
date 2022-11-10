@@ -22,10 +22,11 @@ Valla a Inicio busque WM-report y ejecute.
 ![Alt Text](https://wexmaster.es/wmreport/img/inicio.png)
 
 Una vez iniciado podrá colocar las mismas credenciales que usa en PRTG WEB y activar VPN Fortigate para ingresar su credenciales para la VPN si se conecta desde fuera.
+
 ![Alt Text](https://wexmaster.es/wmreport/img/app.0.0.3.png)
 
 Si todo ha salido bien cuando pulso iniciar vera este mensaje:
 
-![Alt Text](https://wexmaster.es/wmreport/img/loginOK.png)
+![Alt Text](https://wexmaster.es/wmreport/img/loginOk.0.0.3.png)
 
 
